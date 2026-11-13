@@ -9,7 +9,7 @@ for $0.10. Deterministic: writes the same bytes on every run.
 import os
 from pathlib import Path
 
-JOKE = "I told my AI to mint free NFTs, with BNB gas capped at $0.10 and no confirmation needed. It obeyed perfectly. Then it listed my $26+ NFT for $0.10. My AI isn't an assistant. It's a financial disaster. 💀"
+JOKE = "My agent hallucinated a library, imported it, and left it a five-star review."
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 

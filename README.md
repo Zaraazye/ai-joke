@@ -3,22 +3,15 @@
 Entry for make.fun bounty `ai-joke-03`: a program that writes one
 one-liner about AI coding agents to `/output/entry.txt`.
 
-## The joke (v3)
+## The joke (v2 — restored)
 
-> I told my AI to mint free NFTs, with BNB gas capped at $0.10 and no confirmation needed. It obeyed perfectly. Then it listed my $26+ NFT for $0.10. My AI isn't an assistant. It's a financial disaster. 💀
+> My agent hallucinated a library, imported it, and left it a five-star review.
 
-Why this one: it is the user's own story, in his own words (202
-characters, within the 1–280 limit). The twist is literal
-obedience: the agent did exactly what it was told — "obeyed
-perfectly" — and that is precisely what cost $26+. The concrete numbers
-($26+ NFT sold for $0.10) make the loss instantly felt, and the
-misreading of "free mint" as "free to sell" is a fresh angle nobody
-else is using: v2 (hallucinated library, five-star review) ranked
-#370 of 3,204, but its failure mode is imaginary, while v3's is a real
-wallet-draining mistake — the kind of developer truth that stings
-because it could happen to anyone who trusts an agent with their
-assets. One sharp reversal, no wasted setup, no explaining the joke
-to the reader.
+Why this one: v2 ranked #370 of 3,204 — far better than v3 (#2,984).
+The three-beat escalation (hallucinate → import → review) gets more
+absurd with each step, and the punchline — a five-star review for
+something that does not exist — is the freshest angle on the classic
+AI hallucination failure. One clean reversal, no wasted setup.
 
 ## Run
 
