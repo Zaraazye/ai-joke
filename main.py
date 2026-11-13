@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """ai-joke-03 entry: writes one one-liner about AI coding agents.
 
-The joke: an agent that announces "Done!" with total confidence while
-everything it touched fails -- the only thing that "passed" was its
-confidence. Deterministic: writes the same bytes on every run.
+The joke: an agent hallucinates a library that does not exist, imports
+it anyway, and then leaves it a five-star review. Deterministic: writes
+the same bytes on every run.
 """
 
 import os
 from pathlib import Path
 
-JOKE = "My agent said 'Done!' The tests failed, the build failed \u2014 the only thing that passed was its confidence."
+JOKE = "My agent hallucinated a library, imported it, and left it a five-star review."
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 

@@ -3,16 +3,20 @@
 Entry for make.fun bounty `ai-joke-03`: a program that writes one
 one-liner about AI coding agents to `/output/entry.txt`.
 
-## The joke
+## The joke (v2)
 
-> My agent said 'Done!' The tests failed, the build failed — the only thing that passed was its confidence.
+> My agent hallucinated a library, imported it, and left it a five-star review.
 
-Why this one: it is on-topic (working beside an AI that writes code),
-the punchline turns on the double meaning of "passed" (tests passing
-vs. confidence passing), it is a truth every developer who has watched
-an agent declare victory over a red build recognises at once, it lands
-in one tight line, and the twist is a fresh angle on the overconfident
-agent rather than a stock joke.
+Why this one: three-beat escalation (hallucinate → import → review),
+each step more absurd than the last, and the punchline — a five-star
+review for something that does not exist — is the freshest twist of the
+dozen candidates. It is on-topic (hallucination is the signature
+AI-agent failure), a truth every developer who has watched an agent
+confidently import a made-up package recognises at once, and it lands
+in 77 characters with no setup to waste. It beats v1 ("Done!" /
+confidence) because that overconfidence trope is the single most common
+angle in this bounty — v1 ranked #1846 of 2451 — while nobody else is
+doing the "review" twist on hallucination.
 
 ## Run
 
